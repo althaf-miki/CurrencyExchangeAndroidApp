@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CurrencyEx Rate Notifier App</string>
+
+    <string name="from_currency_prompt">Choose a from currency</string>
+
+    <string-array name="from_currency_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+</resources>
